@@ -1,5 +1,6 @@
 package kg.company.referalsystem.models.dto;
 
+import lombok.Builder;
 import lombok.Data;
 
 import java.util.Date;
